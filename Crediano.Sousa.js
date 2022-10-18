@@ -1,0 +1,1 @@
+documet.write("Bom dia");
